@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Main -->
+    <dimen name="main_app_bar_height">300dp</dimen>
+    <dimen name="details_app_bar_height">200dp</dimen>
+    <dimen name="padding_small">5dp</dimen>
+    <dimen name="padding_medium">15dp</dimen>
+    <dimen name="padding_big">30dp</dimen>
+</resources>
